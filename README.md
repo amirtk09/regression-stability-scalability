@@ -2,11 +2,11 @@
 
 # 📉 Computational Foundations of Regression: Stability & Scalability
 
-**Notebook:** `CDM__3_Final.ipynb`
-**Dataset:** [Auto MPG Data Set (UCI Machine Learning Repository)](https://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/auto-mpg.data)
-**Author:** AmirHossein Talebi Koohestani
-**University:** Amir Kabir University of Technology (Tehran Polytechnic)
-**Supervisor:** Dr. Mehdi Ghatee
+**Notebook:** `CDM__3_Final.ipynb`    
+**Dataset:** [Auto MPG Data Set (UCI Machine Learning Repository)](https://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/auto-mpg.data)    
+**Author:** AmirHossein Talebi Koohestani    
+**University:** Amir Kabir University of Technology (Tehran Polytechnic)    
+**Supervisor:** Dr. Mehdi Ghatee    
 **TA:** Dr. Behnam Yousefimehr
 
 </div>
